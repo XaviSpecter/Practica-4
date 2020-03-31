@@ -1,0 +1,16 @@
+%%Practica 4. Convolución y Correlación de señales.
+%
+%Integrantes:
+% Alvarado Angeles Francisco Javier.
+% Chavez Andrade Luis Daniel
+%
+%Grupo: 2MV1.
+%
+%%Objetivos.
+%
+% •Conocer métodos básicos de integración numérica.
+% •Manipulación de instrucciones en MATLAB.
+% •Simular convoluciones y correlaciones de señales continuas.
+% •Simular convoluciones y correlaciones de señales discretas.
+%
+%%Introducción.
